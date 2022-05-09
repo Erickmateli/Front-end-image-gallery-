@@ -1,4 +1,4 @@
-### Technologies used,
+# Technologies used,
 
  axios, react-bootstrap,bootstrap,react-router-dom and sweetalert2
 
