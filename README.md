@@ -1,6 +1,8 @@
+### Technologies used,
+
+ axios, react-bootstrap,bootstrap,react-router-dom and sweetalert2
+
 # Getting Started with the project 
-
-
 
 In the project directory, you can run:
 
