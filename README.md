@@ -1,4 +1,4 @@
-# Technologies used,
+# Technologies used
 
  axios, react-bootstrap,bootstrap,react-router-dom and sweetalert2
 
@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Installs the necessary depandancies used in the project.\
+Installs the necessary depandancies used in the project.
 
 
 ### `npm start`
